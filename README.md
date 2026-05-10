@@ -16,7 +16,7 @@ Current focus areas: distributed systems, real-time data pipelines, AI/ML infere
 
 ### Featured
 
-**[Deterministic Traffic Sim & OpenDRIVE Compiler](https://github.com/evans-onomerike/traffic-core-engine)**
+**[Deterministic Traffic Sim & OpenDRIVE Compiler](https://github.com/evans-onomerike/deterministic-traffic-sim)**
 High-performance C++20 traffic simulation engine and map refinery. Ingests raw OpenStreetMap (OSM) data, simulates multi-agent dynamics via Flecs ECS (A* routing, MOBIL overtakes, OBB collision), and compiles to OpenDRIVE 1.4 XML for Unreal Engine 5. Architecture utilises a lock-step shared memory IPC ring buffer for perfectly decoupled, deterministic physics and rendering.
 
 **[Algorithmic Trading System](https://github.com/evans-onomerike/algorithmic-trading-system)**

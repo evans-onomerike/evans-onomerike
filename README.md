@@ -27,7 +27,7 @@ Self-hosted ML inference pipeline running BS-Roformer stem separation, UVR5 de-r
 ### Stack
 
 ```
-Languages     C++20 · Python · Java · JavaScript (ES6+) · C# · SQL
+Languages     Python · Java · JavaScript (ES6+) · C# · SQL
 Backend       FastAPI · Flask · Node.js · Asyncio · Microservices
 AI/ML         PyTorch · GPU Inference · Audio ML · LLM Integration  
 Cloud         AWS (EC2, S3) · Cloudflare (Tunnel, D1, WAF) · Docker · Kubernetes

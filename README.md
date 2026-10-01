@@ -1,40 +1,36 @@
 # Evans Onomerike
 
-**Computer Science graduate · Full-Stack & Backend Engineer · AI Systems**
+**Software engineer · Creator of VeriStreet**
 
-Irish (EU) citizen — open to roles across the UK, EU, and EEA.
+I build software that brings together real-world data, graphics and simulation.
 
----
+[VeriStreet](https://veristreet.com/) · [About me](https://veristreet.com/evans-onomerike/) · [LinkedIn](https://www.linkedin.com/in/evans-onomerike)
 
-### What I build
+## VeriStreet
 
-I specialise in high-performance backend systems, async Python infrastructure, and full-stack applications. I prefer building things that actually run in production over academic exercises.
+I’m developing VeriStreet, an independent geospatial technology project that turns open map and terrain data into 3D towns.
 
-Current focus areas: distributed systems, real-time data pipelines, AI/ML inference, and Web Audio engineering.
+The work spans the data pipeline, a native C++ and DirectX 12 engine, procedural British architecture, traffic simulation and a Windows desktop app.
 
----
+My current focus includes:
 
-### Featured
+- Generating streets, buildings and terrain from real geographical data.
+- Building a system that combines British architectural types, materials and details into varied buildings.
+- Developing tools for exploring places and testing proposed changes.
+- Preparing **Groundscapes UK: Bristol**, a planned freeware scenery release for X-Plane 12 using the same architectural work.
 
-**Distributed E-Commerce Automation**
-Async Python backend processing 10,000+ concurrent requests via Redis message queues. TLS fingerprint spoofing, DoH DNS resolution, proxy rotation, captcha solving, and Selenium auto-checkout. 99.9% uptime across 4,000+ users.
+VeriStreet is in active development.
 
-**AI Audio Platform** *(private)*
-Self-hosted ML inference pipeline running BS-Roformer stem separation, UVR5 de-reverberation, and RVC v2 voice conversion on consumer GPU hardware. Vanilla JS SPA with custom Web Audio API mixing board, HLS streaming, and Cloudflare Tunnel infrastructure.
+[Development journal](https://veristreet.com/changelog/) · [Research](https://veristreet.com/research/) · [Plans](https://veristreet.com/vision/)
 
----
+## Other work
 
-### Stack
+**Audio ML application** — A self-hosted platform combining GPU-based stem separation, de-reverberation and voice conversion with a browser mixing interface built using the Web Audio API. Private project.
 
-```
-Languages     Python · Java · JavaScript (ES6+) · C# · SQL
-Backend       FastAPI · Flask · Node.js · Asyncio · Microservices
-AI/ML         PyTorch · GPU Inference · Audio ML · LLM Integration  
-Cloud         AWS (EC2, S3) · Cloudflare (Tunnel, D1, WAF) · Docker · Kubernetes
-Databases     PostgreSQL · Redis · SQLite · MySQL
-Frontend      Vanilla JS · Web Audio API · HLS/MSE · Canvas API
-```
+**Backend systems** — Asynchronous Python services, Redis-backed job queues and full-stack applications.
 
----
+## Technologies
 
-*Always building something.*
+Currently working with **C++20, C#, Python, DirectX 12 and WinUI 3**.
+
+Previous work includes **JavaScript, PyTorch, FastAPI, Redis, PostgreSQL, Docker and Cloudflare**.

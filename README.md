@@ -1,27 +1,27 @@
 # Evans Onomerike
 
-**Software engineer · Creator of VeriStreet**
+**Founder & Systems Engineer · VeriStreet**
 
-I build software that brings together real-world data, graphics and simulation.
+I build high-performance software at the intersection of open geospatial data, native graphics architectures, and deterministic simulation.
 
-[VeriStreet](https://veristreet.com/) · [About me](https://veristreet.com/evans-onomerike/) · [LinkedIn](https://www.linkedin.com/in/evans-onomerike)
+[VeriStreet](https://veristreet.com/) · [Company Page](https://www.linkedin.com/company/veristreet) · [LinkedIn](https://www.linkedin.com/in/evans-onomerike) · [YouTube](https://www.youtube.com/@veristreet) · [X / Twitter](https://x.com/veristreetlabs)
 
 ## VeriStreet
 
-I’m developing VeriStreet, an independent geospatial technology project that turns open map and terrain data into 3D towns.
+I am developing **[VeriStreet](https://github.com/veristreet)**, an independent spatial simulation platform compiling raw UK geospatial and LiDAR data into deterministic 3D digital twins.
 
-The work spans the data pipeline, a native C++ and DirectX 12 engine, procedural British architecture, traffic simulation and a Windows desktop app.
+The architecture comprises a native C++ and DirectX 12 rendering engine, discrete graph solvers, procedural British architectural synthesis, and street-level traffic/pedestrian simulation.
 
-My current focus includes:
+### Core Systems
 
-- Generating streets, buildings and terrain from real geographical data.
-- Building a system that combines British architectural types, materials and details into varied buildings.
-- Developing tools for exploring places and testing proposed changes.
-- Preparing **Groundscapes UK: Bristol**, a planned freeware scenery release for X-Plane 12 using the same architectural work.
+- **Geospatial Pipeline:** Ingesting and fusing Ordnance Survey open data, Environment Agency LiDAR, and national road network graphs.
+- **Combinatorial Building Generation:** Procedurally assembling varied British typologies, fenestrations, and material palettes directly to survey-accurate building footprints.
+- **Deterministic Simulation:** Discrete-event traffic, queueing analysis, and pedestrian mobility models to evaluate junction reconfigurations before civil works begin.
+- **Groundscapes UK (Bristol):** Real-world flight-simulation scenery pipeline validating large-scale urban geometry and terrain compiling in X-Plane 12.
 
 VeriStreet is in active development.
 
-[Development journal](https://veristreet.com/changelog/) · [Research](https://veristreet.com/research/) · [Plans](https://veristreet.com/vision/)
+[Development journal](https://veristreet.com/changelog/) · [Research](https://veristreet.com/research/) · [Vision & Plans](https://veristreet.com/vision/)
 
 ## Other work
 
